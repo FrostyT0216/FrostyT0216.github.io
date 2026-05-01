@@ -1,68 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>冰茶FrostyT&#39;s Blog</title>
-        <link>http://localhost:1313/zh-hk/</link>
-        <description>Recent content on 冰茶FrostyT&#39;s Blog</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>zh-hk</language>
-        <copyright>FrostyT&#39;s Blog</copyright>
-        <lastBuildDate>Fri, 01 May 2026 13:22:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/zh-hk/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>關於我</title>
-        <link>http://localhost:1313/zh-hk/p/%E9%97%9C%E6%96%BC%E6%88%91/</link>
-        <pubDate>Fri, 01 May 2026 13:22:00 +0800</pubDate>
-        
-        <guid>http://localhost:1313/zh-hk/p/%E9%97%9C%E6%96%BC%E6%88%91/</guid>
-        <description>&lt;h2 id=&#34;你好陌生人&#34;&gt;你好，陌生人
-&lt;/h2&gt;&lt;p&gt;歡迎嚟到呢個小角落。&lt;br&gt;
-我呢個博客嘅主人，一個學緊點樣好好講嘢、好好寫字嘅人。&lt;br&gt;&lt;/p&gt;
-&lt;h3 id=&#34;點解寫呢個博客&#34;&gt;點解寫呢個博客
-&lt;/h3&gt;&lt;p&gt;講真，我文筆唔算好。由細到大，寫作文對我嚟講都係一件要硬住頭皮先搞得掂嘅事。但係越係咁，我越覺得&lt;strong&gt;表達係一件值得練習嘅事&lt;/strong&gt;。&lt;br&gt;
-於是我就用 Hugo 同 GitHub Pages 搭咗呢個博客。冇複雜嘅架構，冇花巧嘅功能，就好似一張擺喺窗邊嘅書枱——簡單、安靜，夠我坐低寫吓嘢。&lt;br&gt;
-我想喺度慢慢訓練自己嘅文筆，將腦入面啲亂七八糟嘅諗法，試吓整理成通順嘅句子。呢個過程應該會好笨拙，都難免會有錯別字、病句，或者前言不對後語嘅時候。&lt;br&gt;
-如果你啱啱路過，&lt;strong&gt;請多多包涵&lt;/strong&gt;。&lt;br&gt;&lt;/p&gt;
-&lt;h3 id=&#34;呢度會寫啲乜&#34;&gt;呢度會寫啲乜
-&lt;/h3&gt;&lt;p&gt;我冇乜固定嘅主題，都唔打算俾自己設限。大概會係呢啲：&lt;br&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;生活碎片&lt;/strong&gt; —— 某個食到嘅一碗麵、路上遇到嘅貓、季節變換嗰陣嘅心情&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;亂七八糟嘅諗法&lt;/strong&gt; —— 對某件事嘅睇法、讀完一本書之後嘅胡言亂語、突如其嚟嘅腦洞&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;折騰記錄&lt;/strong&gt; —— 搭建呢個博客嘅過程、學到嘅新嘢、踩過嘅坑
-總之，就係一啲&lt;strong&gt;日常嘅、瑣碎嘅、唔深刻但真實&lt;/strong&gt;嘅嘢。&lt;br&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;少少期待&#34;&gt;少少期待
-&lt;/h3&gt;&lt;p&gt;我唔奢望呢度可以變成咩熱門網站，只希望可以堅持落去。&lt;br&gt;
-如果你讀到某句嘢，覺得「啊，我都係咁諗嘅」，咁對我嚟講已經係一件好美好嘅事。&lt;br&gt;
-歡迎成日嚟坐吓，都歡迎留言交流。&lt;br&gt;
-多謝你讀到呢度。&lt;br&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;em&gt;最後更新於 2026 年 5 月&lt;/em&gt;&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>關於</title>
-        <link>http://localhost:1313/zh-hk/archives/</link>
-        <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/zh-hk/archives/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>主頁</title>
-        <link>http://localhost:1313/zh-hk/%E4%B8%BB%E9%A0%81/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/zh-hk/%E4%B8%BB%E9%A0%81/</guid>
-        <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>搜尋</title>
-        <link>http://localhost:1313/zh-hk/search/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/zh-hk/search/</guid>
-        <description></description>
-        </item>
-        
-    </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>冰茶FrostyT's Blog</title><link>https://frostyt0216.github.io/zh-hk/</link><description>Recent content on 冰茶FrostyT's Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-hk</language><copyright>FrostyT's Blog</copyright><lastBuildDate>Fri, 01 May 2026 13:22:00 +0800</lastBuildDate><atom:link href="https://frostyt0216.github.io/zh-hk/index.xml" rel="self" type="application/rss+xml"/><item><title>關於我</title><link>https://frostyt0216.github.io/zh-hk/p/%E9%97%9C%E6%96%BC%E6%88%91/</link><pubDate>Fri, 01 May 2026 13:22:00 +0800</pubDate><guid>https://frostyt0216.github.io/zh-hk/p/%E9%97%9C%E6%96%BC%E6%88%91/</guid><description>&lt;h2 id="你好陌生人">你好，陌生人
+&lt;/h2>&lt;p>歡迎嚟到呢個小角落。&lt;br>
+我呢個博客嘅主人，一個學緊點樣好好講嘢、好好寫字嘅人。&lt;br>&lt;/p>
+&lt;h3 id="點解寫呢個博客">點解寫呢個博客
+&lt;/h3>&lt;p>講真，我文筆唔算好。由細到大，寫作文對我嚟講都係一件要硬住頭皮先搞得掂嘅事。但係越係咁，我越覺得&lt;strong>表達係一件值得練習嘅事&lt;/strong>。&lt;br>
+於是我就用 Hugo 同 GitHub Pages 搭咗呢個博客。冇複雜嘅架構，冇花巧嘅功能，就好似一張擺喺窗邊嘅書枱——簡單、安靜，夠我坐低寫吓嘢。&lt;br>
+我想喺度慢慢訓練自己嘅文筆，將腦入面啲亂七八糟嘅諗法，試吓整理成通順嘅句子。呢個過程應該會好笨拙，都難免會有錯別字、病句，或者前言不對後語嘅時候。&lt;br>
+如果你啱啱路過，&lt;strong>請多多包涵&lt;/strong>。&lt;br>&lt;/p>
+&lt;h3 id="呢度會寫啲乜">呢度會寫啲乜
+&lt;/h3>&lt;p>我冇乜固定嘅主題，都唔打算俾自己設限。大概會係呢啲：&lt;br>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>生活碎片&lt;/strong> —— 某個食到嘅一碗麵、路上遇到嘅貓、季節變換嗰陣嘅心情&lt;/li>
+&lt;li>&lt;strong>亂七八糟嘅諗法&lt;/strong> —— 對某件事嘅睇法、讀完一本書之後嘅胡言亂語、突如其嚟嘅腦洞&lt;/li>
+&lt;li>&lt;strong>折騰記錄&lt;/strong> —— 搭建呢個博客嘅過程、學到嘅新嘢、踩過嘅坑
+總之，就係一啲&lt;strong>日常嘅、瑣碎嘅、唔深刻但真實&lt;/strong>嘅嘢。&lt;br>&lt;/li>
+&lt;/ul>
+&lt;h3 id="少少期待">少少期待
+&lt;/h3>&lt;p>我唔奢望呢度可以變成咩熱門網站，只希望可以堅持落去。&lt;br>
+如果你讀到某句嘢，覺得「啊，我都係咁諗嘅」，咁對我嚟講已經係一件好美好嘅事。&lt;br>
+歡迎成日嚟坐吓，都歡迎留言交流。&lt;br>
+多謝你讀到呢度。&lt;br>&lt;/p>
+&lt;hr>
+&lt;p>&lt;em>最後更新於 2026 年 5 月&lt;/em>&lt;/p></description></item><item><title>關於</title><link>https://frostyt0216.github.io/zh-hk/archives/</link><pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate><guid>https://frostyt0216.github.io/zh-hk/archives/</guid><description/></item><item><title>主頁</title><link>https://frostyt0216.github.io/zh-hk/%E4%B8%BB%E9%A0%81/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://frostyt0216.github.io/zh-hk/%E4%B8%BB%E9%A0%81/</guid><description>&lt;p>This is a test page for i18n support.&lt;/p></description></item><item><title>搜尋</title><link>https://frostyt0216.github.io/zh-hk/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://frostyt0216.github.io/zh-hk/search/</guid><description/></item></channel></rss>

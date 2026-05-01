@@ -1,103 +1,49 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>冰茶FrostyT&#39;s Blog</title>
-        <link>http://localhost:1313/zh-cn/</link>
-        <description>Recent content on 冰茶FrostyT&#39;s Blog</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>zh-cn</language>
-        <copyright>FrostyT&#39;s Blog</copyright>
-        <lastBuildDate>Fri, 01 May 2026 13:22:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>关于我</title>
-        <link>http://localhost:1313/zh-cn/p/%E5%85%B3%E4%BA%8E%E6%88%91/</link>
-        <pubDate>Fri, 01 May 2026 13:22:00 +0800</pubDate>
-        
-        <guid>http://localhost:1313/zh-cn/p/%E5%85%B3%E4%BA%8E%E6%88%91/</guid>
-        <description>&lt;h2 id=&#34;你好陌生人&#34;&gt;你好，陌生人
-&lt;/h2&gt;&lt;p&gt;欢迎来到这个小角落。&lt;br&gt;
-我是这个博客的主人，一个正在学习好好说话、好好写字的人。&lt;br&gt;&lt;/p&gt;
-&lt;h3 id=&#34;为什么写这个博客&#34;&gt;为什么写这个博客
-&lt;/h3&gt;&lt;p&gt;说实话，我的文笔不算好。从小到大，写作文对我来说总是一件需要硬着头皮去完成的事。但越是这样，我越觉得&lt;strong&gt;表达是一件值得练习的事&lt;/strong&gt;。&lt;br&gt;
-于是我用 Hugo 和 GitHub Pages 搭了这个博客。没有复杂的架构，没有花哨的功能，就像一张摆在窗边的书桌——简单、安静，足够我坐下来写点什么。&lt;br&gt;
-我想在这里慢慢训练自己的文笔，把脑子里那些混沌的想法，试着整理成通顺的句子。这个过程大概会很笨拙，也难免有错别字、病句，或者前言不搭后语的时候。&lt;br&gt;
-如果你恰好路过，&lt;strong&gt;还请多多包涵&lt;/strong&gt;。&lt;br&gt;&lt;/p&gt;
-&lt;h3 id=&#34;这里会写些什么&#34;&gt;这里会写些什么
-&lt;/h3&gt;&lt;p&gt;我没有什么固定的主题，也不打算给自己设限。大概会是这些：&lt;br&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;生活碎片&lt;/strong&gt; —— 某天吃到的一碗面、路上遇到的猫、季节变换时的心情&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;乱七八糟的思考&lt;/strong&gt; —— 对某件事的看法、读了一本书后的胡言乱语、突如其来的脑洞&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;折腾记录&lt;/strong&gt; —— 搭建这个博客的过程、学到的新东西、踩过的坑
-总之，就是一些&lt;strong&gt;日常的、琐碎的、不深刻但真实&lt;/strong&gt;的东西。&lt;br&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;一点期待&#34;&gt;一点期待
-&lt;/h3&gt;&lt;p&gt;我不奢望这里能成为什么热门站点，只希望能坚持下去。&lt;br&gt;
-如果你读到了某句话，觉得「啊，我也是这么想的」，那对我来说就是一件很美好的事。&lt;br&gt;
-欢迎常来坐坐，也欢迎留言交流。&lt;br&gt;
-谢谢你读到这里。&lt;br&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;em&gt;最后更新于 2026 年 5 月&lt;/em&gt;&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>归档</title>
-        <link>http://localhost:1313/zh-cn/archives/</link>
-        <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/zh-cn/archives/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Links</title>
-        <link>http://localhost:1313/zh-cn/links/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/zh-cn/links/</guid>
-        <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
-&lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;9
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;links&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub is the world&amp;#39;s largest software development platform.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.com&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://www.typescriptlang.org&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;ts-logo-128.jpg&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>关于</title>
-        <link>http://localhost:1313/zh-cn/%E5%85%B3%E4%BA%8E/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/zh-cn/%E5%85%B3%E4%BA%8E/</guid>
-        <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>搜索</title>
-        <link>http://localhost:1313/zh-cn/search/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/zh-cn/search/</guid>
-        <description></description>
-        </item>
-        
-    </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>冰茶FrostyT's Blog</title><link>https://frostyt0216.github.io/zh-cn/</link><description>Recent content on 冰茶FrostyT's Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>FrostyT's Blog</copyright><lastBuildDate>Fri, 01 May 2026 13:22:00 +0800</lastBuildDate><atom:link href="https://frostyt0216.github.io/zh-cn/index.xml" rel="self" type="application/rss+xml"/><item><title>关于我</title><link>https://frostyt0216.github.io/zh-cn/p/%E5%85%B3%E4%BA%8E%E6%88%91/</link><pubDate>Fri, 01 May 2026 13:22:00 +0800</pubDate><guid>https://frostyt0216.github.io/zh-cn/p/%E5%85%B3%E4%BA%8E%E6%88%91/</guid><description>&lt;h2 id="你好陌生人">你好，陌生人
+&lt;/h2>&lt;p>欢迎来到这个小角落。&lt;br>
+我是这个博客的主人，一个正在学习好好说话、好好写字的人。&lt;br>&lt;/p>
+&lt;h3 id="为什么写这个博客">为什么写这个博客
+&lt;/h3>&lt;p>说实话，我的文笔不算好。从小到大，写作文对我来说总是一件需要硬着头皮去完成的事。但越是这样，我越觉得&lt;strong>表达是一件值得练习的事&lt;/strong>。&lt;br>
+于是我用 Hugo 和 GitHub Pages 搭了这个博客。没有复杂的架构，没有花哨的功能，就像一张摆在窗边的书桌——简单、安静，足够我坐下来写点什么。&lt;br>
+我想在这里慢慢训练自己的文笔，把脑子里那些混沌的想法，试着整理成通顺的句子。这个过程大概会很笨拙，也难免有错别字、病句，或者前言不搭后语的时候。&lt;br>
+如果你恰好路过，&lt;strong>还请多多包涵&lt;/strong>。&lt;br>&lt;/p>
+&lt;h3 id="这里会写些什么">这里会写些什么
+&lt;/h3>&lt;p>我没有什么固定的主题，也不打算给自己设限。大概会是这些：&lt;br>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>生活碎片&lt;/strong> —— 某天吃到的一碗面、路上遇到的猫、季节变换时的心情&lt;/li>
+&lt;li>&lt;strong>乱七八糟的思考&lt;/strong> —— 对某件事的看法、读了一本书后的胡言乱语、突如其来的脑洞&lt;/li>
+&lt;li>&lt;strong>折腾记录&lt;/strong> —— 搭建这个博客的过程、学到的新东西、踩过的坑
+总之，就是一些&lt;strong>日常的、琐碎的、不深刻但真实&lt;/strong>的东西。&lt;br>&lt;/li>
+&lt;/ul>
+&lt;h3 id="一点期待">一点期待
+&lt;/h3>&lt;p>我不奢望这里能成为什么热门站点，只希望能坚持下去。&lt;br>
+如果你读到了某句话，觉得「啊，我也是这么想的」，那对我来说就是一件很美好的事。&lt;br>
+欢迎常来坐坐，也欢迎留言交流。&lt;br>
+谢谢你读到这里。&lt;br>&lt;/p>
+&lt;hr>
+&lt;p>&lt;em>最后更新于 2026 年 5 月&lt;/em>&lt;/p></description></item><item><title>归档</title><link>https://frostyt0216.github.io/zh-cn/archives/</link><pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate><guid>https://frostyt0216.github.io/zh-cn/archives/</guid><description/></item><item><title>Links</title><link>https://frostyt0216.github.io/zh-cn/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://frostyt0216.github.io/zh-cn/links/</guid><description>&lt;p>To use this feature, add &lt;code>links&lt;/code> section to frontmatter.&lt;/p>
+&lt;p>This page&amp;rsquo;s frontmatter:&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;span class="lnt">7
+&lt;/span>&lt;span class="lnt">8
+&lt;/span>&lt;span class="lnt">9
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-yaml" data-lang="yaml">&lt;span class="line">&lt;span class="cl">&lt;span class="nt">links&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">title&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">GitHub&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">description&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">GitHub is the world&amp;#39;s largest software development platform.&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">website&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://github.com&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">image&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">title&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">TypeScript&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">description&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">website&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://www.typescriptlang.org&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">image&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">ts-logo-128.jpg&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>&lt;code>image&lt;/code> field accepts both local and external images.&lt;/p></description></item><item><title>关于</title><link>https://frostyt0216.github.io/zh-cn/%E5%85%B3%E4%BA%8E/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://frostyt0216.github.io/zh-cn/%E5%85%B3%E4%BA%8E/</guid><description>&lt;p>This is a test page for i18n support.&lt;/p></description></item><item><title>搜索</title><link>https://frostyt0216.github.io/zh-cn/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://frostyt0216.github.io/zh-cn/search/</guid><description/></item></channel></rss>
