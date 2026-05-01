@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on 冰茶FrostyT&#39;s Blog</title>
+        <link>http://localhost:1313/post/</link>
+        <description>Recent content in Posts on 冰茶FrostyT&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>FrostyT&#39;s Blog</copyright>
+        <lastBuildDate>Fri, 01 May 2026 13:22:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>关于我</title>
+        <link>http://localhost:1313/p/%E5%85%B3%E4%BA%8E%E6%88%91/</link>
+        <pubDate>Fri, 01 May 2026 13:22:00 +0800</pubDate>
+        
+        <guid>http://localhost:1313/p/%E5%85%B3%E4%BA%8E%E6%88%91/</guid>
+        <description>&lt;h2 id=&#34;你好陌生人&#34;&gt;你好，陌生人
+&lt;/h2&gt;&lt;p&gt;欢迎来到这个小角落。&lt;br&gt;
+我是这个博客的主人，一个正在学习好好说话、好好写字的人。&lt;br&gt;&lt;/p&gt;
+&lt;h3 id=&#34;为什么写这个博客&#34;&gt;为什么写这个博客
+&lt;/h3&gt;&lt;p&gt;说实话，我的文笔不算好。从小到大，写作文对我来说总是一件需要硬着头皮去完成的事。但越是这样，我越觉得&lt;strong&gt;表达是一件值得练习的事&lt;/strong&gt;。&lt;br&gt;
+于是我用 Hugo 和 GitHub Pages 搭了这个博客。没有复杂的架构，没有花哨的功能，就像一张摆在窗边的书桌——简单、安静，足够我坐下来写点什么。&lt;br&gt;
+我想在这里慢慢训练自己的文笔，把脑子里那些混沌的想法，试着整理成通顺的句子。这个过程大概会很笨拙，也难免有错别字、病句，或者前言不搭后语的时候。&lt;br&gt;
+如果你恰好路过，&lt;strong&gt;还请多多包涵&lt;/strong&gt;。&lt;br&gt;&lt;/p&gt;
+&lt;h3 id=&#34;这里会写些什么&#34;&gt;这里会写些什么
+&lt;/h3&gt;&lt;p&gt;我没有什么固定的主题，也不打算给自己设限。大概会是这些：&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;生活碎片&lt;/strong&gt; —— 某天吃到的一碗面、路上遇到的猫、季节变换时的心情&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;乱七八糟的思考&lt;/strong&gt; —— 对某件事的看法、读了一本书后的胡言乱语、突如其来的脑洞&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;折腾记录&lt;/strong&gt; —— 搭建这个博客的过程、学到的新东西、踩过的坑
+总之，就是一些&lt;strong&gt;日常的、琐碎的、不深刻但真实&lt;/strong&gt;的东西。&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;一点期待&#34;&gt;一点期待
+&lt;/h3&gt;&lt;p&gt;我不奢望这里能成为什么热门站点，只希望能坚持下去。&lt;br&gt;
+如果你读到了某句话，觉得「啊，我也是这么想的」，那对我来说就是一件很美好的事。&lt;br&gt;
+欢迎常来坐坐，也欢迎留言交流。&lt;br&gt;
+谢谢你读到这里。&lt;br&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;最后更新于 2026 年 5 月&lt;/em&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>MyFirstBlog</title>
+        <link>http://localhost:1313/p/myfirstblog/</link>
+        <pubDate>Fri, 01 May 2026 09:49:38 +0800</pubDate>
+        
+        <guid>http://localhost:1313/p/myfirstblog/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
