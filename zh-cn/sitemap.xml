@@ -17,18 +17,55 @@
   </url><url>
     <loc>http://localhost:1313/post/</loc>
     <lastmod>2026-05-01T13:22:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hk"
+                href="http://localhost:1313/zh-hk/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/post/"
+                />
   </url><url>
     <loc>http://localhost:1313/p/%E5%85%B3%E4%BA%8E%E6%88%91/</loc>
     <lastmod>2026-05-01T13:22:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/p/myfirstblog/</loc>
-    <lastmod>2026-05-01T09:49:38+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hk"
+                href="http://localhost:1313/zh-hk/p/%E9%97%9C%E6%96%BC%E6%88%91/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/p/%E5%85%B3%E4%BA%8E%E6%88%91/"
+                />
   </url><url>
     <loc>http://localhost:1313/page/</loc>
     <lastmod>2026-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hk"
+                href="http://localhost:1313/zh-hk/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/page/"
+                />
   </url><url>
     <loc>http://localhost:1313/archives/</loc>
     <lastmod>2026-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hk"
+                href="http://localhost:1313/zh-hk/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/archives/"
+                />
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
@@ -59,7 +96,27 @@
     <loc>http://localhost:1313/categories/test/</loc>
   </url><url>
     <loc>http://localhost:1313/%E5%85%B3%E4%BA%8E/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hk"
+                href="http://localhost:1313/zh-hk/%E4%B8%BB%E9%A0%81/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/%E5%85%B3%E4%BA%8E/"
+                />
   </url><url>
     <loc>http://localhost:1313/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hk"
+                href="http://localhost:1313/zh-hk/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/search/"
+                />
   </url>
 </urlset>
